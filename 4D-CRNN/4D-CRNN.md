@@ -255,3 +255,5 @@ model.fit([x_train[:, 0], x_train[:, 1], x_train[:, 2], x_train[:, 3], x_train[:
 
 :droplet:同样的SEED文件夹中保存的是基于Seed数据集来进行情绪识别解码的运行文件，大致运行原理与Deap相同，但要**注意路径的设置要换成使用者自己的**，**代码均可运行，我个人都已经做了修改和注释，请读者放心食用！**
 
+### Cite
+Shen F, Dai G, Lin G, et al. EEG-based emotion recognition using 4D convolutional recurrent neural network[J]. Cognitive Neurodynamics, 2020, 14: 815-828.
