@@ -257,3 +257,5 @@ model.fit([x_train[:, 0], x_train[:, 1], x_train[:, 2], x_train[:, 3], x_train[:
 
 ### Cite
 Shen F, Dai G, Lin G, et al. EEG-based emotion recognition using 4D convolutional recurrent neural network[J]. Cognitive Neurodynamics, 2020, 14: 815-828.
+
+最后，感谢[原作者](https://github.com/aug08)提供的思路与代码
